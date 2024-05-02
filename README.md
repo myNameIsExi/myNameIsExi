@@ -45,8 +45,8 @@
     <a href="https://discord.com/users/410146060288393219" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord" height="30" width="40" />
     </a>
-    <a href="href="mailto:teocarballo2002@gmail.com" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Discord" height="30" width="40" />
+    <a href="href=mailto:teocarballo2002@gmail.com" target="_blank">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="30" width="40" />
     </a>
 </p>
 
