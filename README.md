@@ -3,9 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 
 <br>
 
@@ -21,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/adam-pithewan/](https://www.linkedin.com/in/teo-carballo-37909a228/)" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/teo-carballo-37909a228/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 
-  <a href="[https://instagram.com/_._.adam._](https://www.instagram.com/e_x_i/)" target="blank"><img align="center"
+  <a href="https://www.instagram.com/e_x_i/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 
