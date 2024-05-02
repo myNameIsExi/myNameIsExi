@@ -42,8 +42,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/teo-carballo-37909a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 </p>
-<p align="left">
-<a href="Discordapp.com/users/410146060288393219" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+
+<p align="right">
+ 
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 </p>
 
 
