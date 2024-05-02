@@ -35,7 +35,8 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left" style="margin-bottom: 150px;">Connect with me: </h3>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/teo-carballo-37909a228/" target="_blank">
