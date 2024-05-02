@@ -1,13 +1,14 @@
-![logo ](https://camo.githubusercontent.com/d6b007401a644a825e7789cf983b307fd2783f0d36f4e72b414aaf65e08bab98/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632)
 
 
 <h1 align="center">Hi 👋, I'm Teo Carballo </h1>
+
+
+![logo ](https://camo.githubusercontent.com/d6b007401a644a825e7789cf983b307fd2783f0d36f4e72b414aaf65e08bab98/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632)
+
 <h3 align="center">A passionate Programmer from Argentina</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+
 </p>
 
 <div align="center">
@@ -88,8 +89,16 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<h3>Proyectos</h3>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h3 align="left"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"> </h3>
+
 
 <br>
-<p align="right" > Created with by <a href="http://supun.traditionalme.life">Teo Carballo</a></p>
+
+
+<p align="center" > Created with by <a href="http://supun.traditionalme.life">Teo Carballo</a></p>
