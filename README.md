@@ -5,6 +5,12 @@
 
 ![gifteo](https://github.com/myNameIsExi/myNameIsExi/assets/113642439/9f3c92c1-edbd-4cb0-ad54-1b595bb03ee8)
 
+  <h1>Mi Currículum Vitae</h1>
+    <!-- Botón de descarga -->
+    <a href="https://github.com/myNameIsExi/myNameIsExi/files/15202339/Curriculum.Dev.1.1.pdf" download="Curriculum Dev (1) (1).pdf">
+        <button> Descargar CV </button>
+    </a>
+    
 <!--https://github.com/myNameIsExi/myNameIsExi/assets/113642439/1ff55c22-3456-4cb9-9003-3b1aa405247e-->
 
 
