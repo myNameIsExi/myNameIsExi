@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Teo Carballo </h1>
 
 
-![logo ](https://camo.githubusercontent.com/d6b007401a644a825e7789cf983b307fd2783f0d36f4e72b414aaf65e08bab98/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632)
+![gifteo](https://github.com/myNameIsExi/myNameIsExi/assets/113642439/9f3c92c1-edbd-4cb0-ad54-1b595bb03ee8)
+
+<!--https://github.com/myNameIsExi/myNameIsExi/assets/113642439/1ff55c22-3456-4cb9-9003-3b1aa405247e-->
+
+
+<!--![logo ](https://camo.githubusercontent.com/d6b007401a644a825e7789cf983b307fd2783f0d36f4e72b414aaf65e08bab98/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632)-->
 
 <h3 align="center">A passionate Programmer from Argentina</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
