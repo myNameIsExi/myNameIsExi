@@ -92,7 +92,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,pycharm" />
   </a>
 </p>
 
