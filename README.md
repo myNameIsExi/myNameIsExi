@@ -4,8 +4,24 @@
 
 ![gifteo](https://github.com/myNameIsExi/myNameIsExi/assets/113642439/9f3c92c1-edbd-4cb0-ad54-1b595bb03ee8)
 
-<h1 align="center">Hi 👋, I'm Teo Carballo </h1>
- 
+
+
+
+<p align="center"><h1 align="center">Hi 👋, I'm Teo Carballo
+     <br>
+    <br>
+
+    
+
+
+
+</h1>
+</p>
+
+<!--<h1 align="center">A passionate Programmer from Argentina</h1>-->
+
+<!--<h1 align="center">Hi 👋, I'm Teo Carballo </h1>
+ <h2 align="center">A passionate Programmer from Argentina</h1> 
     
 <!--https://github.com/myNameIsExi/myNameIsExi/assets/113642439/1ff55c22-3456-4cb9-9003-3b1aa405247e-->
 
@@ -69,6 +85,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs" />
@@ -98,10 +115,10 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h3>Proyectos</h3>
+<!--<h3>Proyectos</h3-->
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
