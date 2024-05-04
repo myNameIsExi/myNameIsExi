@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Teo Carballo </h1>
 
 
 ![gifteo](https://github.com/myNameIsExi/myNameIsExi/assets/113642439/9f3c92c1-edbd-4cb0-ad54-1b595bb03ee8)
 
+<h1 align="center">Hi 👋, I'm Teo Carballo </h1>
  
     
 <!--https://github.com/myNameIsExi/myNameIsExi/assets/113642439/1ff55c22-3456-4cb9-9003-3b1aa405247e-->
