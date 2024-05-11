@@ -123,16 +123,18 @@
 ### 📹 Últimos Proyectos
 
 
+
 <a href='http://localhost:8080/index.html' target='_blank'>
-  <img width='30%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/25eab687-0194-4eb8-b797-5853c3739752' />
+  <img width='21%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/25eab687-0194-4eb8-b797-5853c3739752' />
 </a>
-<a href='https://youtu.be/DCDE3MMbu1E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DCDE3MMbu1E/mqdefault.jpg' alt='Cuando sigues programando un viernes por la tarde.' />
+<a href='https://www.figma.com/proto/WcVIiodkQPtZ0eHe8nbRwU/Untitled?node-id=3-233&t=l8enfafxayLf3YWp-1' target='_blank'>
+  <img width='30%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/b624239b-2933-4271-9516-a9f5ba4dcb80'  />
 </a>
-<a href='https://youtu.be/J60YlqxWPXI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J60YlqxWPXI/mqdefault.jpg' alt='¡Juegos para aprender CSS Flex y Grid!' />
+<a href='https://www.figma.com/proto/421HeJYLplGIO7ppmhW2e6/Untitled?node-id=1-2&starting-point-node-id=1%3A2' target='_blank'>
+  <img width='28%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/58870841-7874-40ce-a7d2-38ad332893ff' alt='¡Juegos para aprender CSS Flex y Grid!' />
 </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 <h3 align="left"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"> </h3>
