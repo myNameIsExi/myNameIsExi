@@ -120,7 +120,18 @@
 
 <!--<h3>Proyectos</h3-->
 
+### 📹 Últimos Proyectos
 
+
+<a href='https://github.com/myNameIsExi/Calculadora-V2-con-Css/blob/main/index.html' target='_blank'>
+  <img width='30%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/25eab687-0194-4eb8-b797-5853c3739752' />
+</a>
+<a href='https://youtu.be/DCDE3MMbu1E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DCDE3MMbu1E/mqdefault.jpg' alt='Cuando sigues programando un viernes por la tarde.' />
+</a>
+<a href='https://youtu.be/J60YlqxWPXI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/J60YlqxWPXI/mqdefault.jpg' alt='¡Juegos para aprender CSS Flex y Grid!' />
+</a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
