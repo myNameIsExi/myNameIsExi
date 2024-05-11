@@ -119,20 +119,31 @@
 
 
 <!--<h3>Proyectos</h3-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📹 Últimos Proyectos
+### 👨‍💻💻🖥️ Últimos Proyectos
+
+
+<div style="display: flex; justify-content: space-between=100px; ">
+    <a href="http://localhost:8080/index.html" target="_blank">
+        <img src="https://github.com/myNameIsExi/myNameIsExi/assets/113642439/25eab687-0194-4eb8-b797-5853c3739752" alt="Calculadora" style="width: 25%;">
+    </a>
+    <a href="https://www.figma.com/proto/WcVIiodkQPtZ0eHe8nbRwU/Untitled?node-id=3-233&t=l8enfafxayLf3YWp-1" target="_blank">
+        <img src="https://github.com/myNameIsExi/myNameIsExi/assets/113642439/b624239b-2933-4271-9516-a9f5ba4dcb80" alt="Zapas" style="width: 35%;">
+    </a>
+    <a href="https://www.figma.com/proto/421HeJYLplGIO7ppmhW2e6/Untitled?node-id=1-2&starting-point-node-id=1%3A2" target="_blank">
+        <img src="https://github.com/myNameIsExi/myNameIsExi/assets/113642439/58870841-7874-40ce-a7d2-38ad332893ff" alt="Comida" style="width: 34%;">
+    </a>
+</div>
+
+<br>
+<br>
 
 
 
-<a href='http://localhost:8080/index.html' target='_blank'>
-  <img width='21%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/25eab687-0194-4eb8-b797-5853c3739752' />
-</a>
-<a href='https://www.figma.com/proto/WcVIiodkQPtZ0eHe8nbRwU/Untitled?node-id=3-233&t=l8enfafxayLf3YWp-1' target='_blank'>
-  <img width='30%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/b624239b-2933-4271-9516-a9f5ba4dcb80'  />
-</a>
-<a href='https://www.figma.com/proto/421HeJYLplGIO7ppmhW2e6/Untitled?node-id=1-2&starting-point-node-id=1%3A2' target='_blank'>
-  <img width='28%' src='https://github.com/myNameIsExi/myNameIsExi/assets/113642439/58870841-7874-40ce-a7d2-38ad332893ff' alt='¡Juegos para aprender CSS Flex y Grid!' />
-</a>
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
