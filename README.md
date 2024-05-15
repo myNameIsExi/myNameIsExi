@@ -121,7 +121,7 @@
 <!--<h3>Proyectos</h3-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 👨‍💻💻🖥️ Últimos Proyectos
+### 👨‍💻💻🖥️ Last Proyects
 
 
 <div style="display: flex; justify-content: space-between=100px; ">
