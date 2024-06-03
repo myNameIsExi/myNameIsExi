@@ -63,7 +63,7 @@
 <h3 align="left" style="margin-bottom: 150px;">Connect with me: </h3>
 
 
-[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-darkblue?style=for-the-badge&logo=github)](https://github.com/user-attachments/files/15540702/Curriculum.Dev.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-darkblue?style=for-the-badge&logo=github)](https://github.com/user-attachments/files/15540713/Curriculum.Dev.pdf)
 
 <p align="left">
     <a href="https://www.linkedin.com/in/teo-carballo-37909a228/" target="_blank">
