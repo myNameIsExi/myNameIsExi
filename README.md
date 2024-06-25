@@ -134,6 +134,16 @@
     </a>
 </div>
 
+
+Cooming soon...
+
+
+ ![image](https://github.com/myNameIsExi/myNameIsExi/assets/113642439/810d0fe0-1f49-4866-ae8d-5719619b2171)
+
+
+An automation project for a video game. which implies that when you are not present when selecting things to start playing, this. do it for you
+will solve the lives of video game players!
+
 <br>
 <br>
 
