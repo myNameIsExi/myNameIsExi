@@ -64,7 +64,7 @@
 
 
 
-[![Descargar CV](https://github.com/user-attachments/files/16434212/Curriculum.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar_CV-007bff?style=for-the-badge&logo=download)](https://github.com/user-attachments/files/16434212/Curriculum.pdf)
 
 <p align="left">
     <a href="https://www.linkedin.com/in/teo-carballo-37909a228/" target="_blank">
